@@ -1,0 +1,15 @@
+﻿{
+  "Descriptor": {
+    "UId": "f3877abd-a3c8-4a7a-9c5d-d040bd5d8dbd",
+    "Name": "test_Base",
+    "ModifiedOnUtc": "\/Date(1569844425000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "fe1effeb-74f2-42c5-b5e1-dfe0313b86bf",
+        "PackageVersion": "7.8.0",
+        "Name": "Studio"
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "38f35305-24ff-4cc0-b8d1-9eb52757794b",
+    "Name": "UsrTestEntity",
+    "ModifiedOnUtc": "\/Date(1569845385000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тестовый объект"
+  }
+}
